@@ -1,0 +1,4 @@
+model,log_loss_test,accuracy_test
+LogReg + odds + form + attributes,0.9984407837642016,0.5195261079420799
+XGBoost no odds,1.075,0.4546
+XGBoost with odds,1.0319,0.4976

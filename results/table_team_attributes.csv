@@ -1,0 +1,9 @@
+attribute,description
+buildUpPlaySpeed,Build-up play speed
+buildUpPlayPassing,Build-up play passing quality
+chanceCreationPassing,Chance creation via passing
+chanceCreationCrossing,Chance creation via crossing
+chanceCreationShooting,Chance creation via shooting
+defencePressure,Defensive pressure intensity
+defenceAggression,Defensive aggression
+defenceTeamWidth,Defensive team width

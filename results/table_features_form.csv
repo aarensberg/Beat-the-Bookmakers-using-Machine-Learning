@@ -1,0 +1,9 @@
+feature,description
+home_roll_goals_for,Avg goals scored (home) over last N matches
+home_roll_goals_against,Avg goals conceded (home) over last N matches
+home_roll_points,"Avg points (home, 3/1/0) over last N matches"
+home_roll_win_rate,Win rate (home) over last N matches
+away_roll_goals_for,Avg goals scored (away) over last N matches
+away_roll_goals_against,Avg goals conceded (away) over last N matches
+away_roll_points,"Avg points (away, 3/1/0) over last N matches"
+away_roll_win_rate,Win rate (away) over last N matches

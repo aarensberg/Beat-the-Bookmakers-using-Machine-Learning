@@ -1,0 +1,8 @@
+# Hidden macOS file storing display settings
+.DS_Store
+
+# French version of the analysis notebook
+analyses_fr.ipynb
+
+# Database (too large to be tracked in Git)
+database.sqlite

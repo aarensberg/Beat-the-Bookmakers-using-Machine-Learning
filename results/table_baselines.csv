@@ -1,0 +1,3 @@
+model,log_loss_test,accuracy_test
+Always Home (naive),,0.44624835454146555
+Market (Bet365 probs),0.985097936591144,0.5287406757349715
