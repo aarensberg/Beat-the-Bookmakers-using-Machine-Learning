@@ -1,2 +1,2 @@
 model,log_loss_val,log_loss_test,accuracy_val,accuracy_test
-Logistic Regression (multinomial),0.9935151068083117,0.9984407837642016,0.5105263157894737,0.5195261079420799
+Logistic Regression (multinomial),0.9935,0.9984,0.5105,0.5195

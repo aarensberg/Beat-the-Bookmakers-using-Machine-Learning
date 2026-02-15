@@ -1,5 +1,7 @@
 # Applied Machine Learning for Business — Football Betting Probabilities
 
+![Cover Project](cover_project.png)
+
 This repository contains a complete end‑to‑end pipeline to model football match outcomes and evaluate betting strategies using the **European Soccer Database** (SQLite). The work is implemented in the notebooks and produces summary tables in the `results/` folder.
 
 ## Project Summary
