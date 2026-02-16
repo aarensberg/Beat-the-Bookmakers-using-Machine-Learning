@@ -6,7 +6,7 @@ Probabilistic modelling of football match outcomes and value betting strategies 
 
 ## Project Overview
 
-This project follows the assignment brief in [instructions.pdf](instructions.pdf) and implements the full pipeline described in [analyses_fr.ipynb](analyses_fr.ipynb):
+This project follows the assignment brief in [instructions.pdf](instructions.pdf) and implements the full pipeline described in [analyses.ipynb](analyses.ipynb):
 
 1. **Match-level dataset construction**  
    - Load `Match`, `League`, `Team` tables  
@@ -63,9 +63,7 @@ You can view the database schema here: [db_diagram.pdf](db_diagram.pdf).
 ## How to Run
 
 1. Create a Python environment and install dependencies from [requirements.txt](requirements.txt).
-2. Run the analysis notebooks:
-   - [analyses.ipynb](analyses.ipynb)
-   - [analyses_fr.ipynb](analyses_fr.ipynb)
+2. Run the analysis notebooks: [analyses.ipynb](analyses.ipynb)
 
 > Note: the SQLite database file `database.sqlite` is required but excluded from Git due to size. You can download it from the [European Soccer Database (Kaggle)](https://www.kaggle.com/datasets/hugomathien/soccer) page and place it in the project root.
 
